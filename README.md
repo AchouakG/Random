@@ -6,4 +6,4 @@ Note: this project is purely for fun.
 
 >random advice generator
 
-![Alt text](images/image.png)
+![Alt text](images/demo.png)
